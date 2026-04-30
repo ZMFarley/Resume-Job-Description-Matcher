@@ -3,3 +3,4 @@
 jd_dataset/
 resume_dataset/
 __pycache__
+*.npy
